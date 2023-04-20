@@ -2,17 +2,17 @@
 footer{
     background-color: black;
 }
-.footer-items h2{
+.link-boxes h2{
     color:white;
 }
 
-.footer-items{
+.link-boxes{
     display: flex;
     flex-flow: column wrap;
     gap:10px;
 }
 
-.footer-items a {
+.link-boxes a {
     color:white;
     text-decoration: none;
 }
@@ -27,7 +27,7 @@ footer{
     gap:30px;
 	color:white;
 }
-.right-nav{
+.media-icons{
   width:40%;
     display:flex;
     justify-content:space-evenly;
